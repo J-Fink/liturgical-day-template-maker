@@ -1,0 +1,26 @@
+{
+  "name": "liturgical-day-template-maker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "liturgical-day-template-maker",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.12.0",
+    "gatsby": "^3.2.1",
+    "gatsby-plugin-image": "^1.2.0",
+    "gatsby-plugin-styled-components": "^4.2.0",
+    "gatsby-source-sanity": "^7.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.3"
+  }
+}
